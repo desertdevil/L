@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/desertdevil/L/issues"
   },
-  "homepage": "https://github.com/desertdevil/L#readme"
+  "homepage": "https://github.com/desertdevil/L#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
