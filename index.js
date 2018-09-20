@@ -14,4 +14,4 @@ app.get('/', async function (req, res){
 });
 
 
-app.listen(3000);
+app.listen(3000, () => console.log('app listening on http://localhost:3000'));
